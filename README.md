@@ -15,9 +15,6 @@
   
 </p>
 <Br>
-<Br>
-  <Br>
-<Br>
 
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
