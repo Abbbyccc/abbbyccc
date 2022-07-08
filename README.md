@@ -1,7 +1,7 @@
 <h1 align="center">Hey! Abby here! 👋 </h1>
 
 ### 💁‍♀️ An aspiring web developer with extensive project management skills
-- 👩🏻‍💻  Currently in a intensive full-stack bootcamp with a UK-based coding training school ***Founders and Coders***
+- 👩🏻‍💻  Currently in an intensive full-stack bootcamp with a UK-based coding training school ***Founders and Coders***
 - 💻  Languages and tools that I am learning now and more to be added:
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
