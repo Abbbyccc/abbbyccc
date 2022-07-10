@@ -1,4 +1,4 @@
-<h1 align="center">Hey! Abby here! 👋 </h1>
+<h1 align="center">Hey! Abby here! 👋</h1>
 
 ### 💁‍♀️ An aspiring web developer with extensive project management skills
 - 👩🏻‍💻  Currently in an intensive full-stack bootcamp with a UK-based coding training school ***Founders and Coders***
