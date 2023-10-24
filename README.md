@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/abbychien" target="blank"><img align="center" src="https://img.shields.io/badge/Abby Chien-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:hello@abbychien.com" target="blank"><img align="center" src="https://img.shields.io/badge/hello@abbychien.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>   
+<a href="https://www.linkedin.com/in/abbychien" target="blank"><img align="center" src="https://img.shields.io/badge/Abby Chien-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;    
 </p>
 
 <div align="center">
